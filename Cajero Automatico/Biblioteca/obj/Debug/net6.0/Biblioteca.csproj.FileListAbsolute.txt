@@ -1,0 +1,24 @@
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Parcial 2 Guido Capucciati\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos\Parcial2\Cajero Automatico\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
